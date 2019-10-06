@@ -1,0 +1,16 @@
+4539b556081abe101d97cc6507fa80c6 *DESCRIPTION
+cc93f13be78dc44a583e5256b2c7e00d *LICENSE
+c1e5da251174e71c28b1b65dc846c57c *NAMESPACE
+b176fedcaed47bbe71f78dcb197e0290 *NEWS.md
+aadb159d6eb48ba842d5d3bb3077ffd0 *R/datasets.R
+007a2e33ed4d6559cab405e58b169d0b *R/eqn2svg.R
+4e50b183bef56de3ffb39547b0648832 *R/utils-pipe.R
+0800c45d5a431094607ac3fab2cf54e6 *README.md
+5959ec7fcc9271528803abcae7f9751c *data/l_laplace_s_domain.rda
+d6deb931693de47c6f506f80a3a131d2 *data/l_time_domain.rda
+f816f1468183cce6cc3d6c02b5e54d02 *man/eqn2svg.Rd
+9c3fde1e4837611ca24d6db4b6682eb3 *man/l_laplace_s_domain.Rd
+fb7d03043a4a3157e23333cfc154f685 *man/l_time_domain.Rd
+349a915e43dc26bd116143cde4f49609 *man/pipe.Rd
+8033383ecadc4314b17560029d6dc7e1 *tests/testthat.R
+6b0f3e8799b31b5e59aa82ef64ccd641 *tests/testthat/test-eqn2svg.R
